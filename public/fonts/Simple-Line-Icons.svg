@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=0, viewport-fit=cover">
+<link rel="shortcut icon" href="../favicon_1.ico" type="image/x-icon">
+<link rel="stylesheet" href="../css/font-awesome.min_1.css">
+<link href="../css/bootstrap-glyphicons_1.css" rel="stylesheet">
+<link href="../css/sweetalert2.min.css" rel="stylesheet">
+<style>
+.tele-btn {
+	color: #009dff !important;
+    height: 40px;
+    border-radius: 25px !important;
+    background-color: #fff !important;
+    font-size: 17px !important;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.11);
+}
+.invite-btn{
+	padding: 3px 10px;
+    border-radius: 25px !important;
+    background: #39bfa6;
+    color: #fff;
+    box-shadow: 0 4px 6px 0 rgba(0,0,0,.05), 0 1px 0 1px rgba(0,0,0,.05), 0 0 0 1px rgba(0,0,0,.05);
+}
+</style>
+
+<title>Страница не найдена</title>
+
+<meta name="description" content="Лучшие приложения">
+<meta name="keywords" content="Apps, No Jailbreak, cydia no jailbreak no computer, jailbreak no computer, iOS 8 screen recorder no jailbreak, emulators, emulator, jailbreakme, No jailbreak, No jailbreak screen recorder,  Cydia alternative, Cydia alternative no jailbreak, iOS 8 screen recorder, iphone, iOS 8 screen recorder no jailbreak, emulators, emulator, ios, ikapps, ishmv, appscloud, AppsCloud, Apps Cloud, apps cloud, Царские приложения, Царский ВК, VK++, vk settings, Царский Instagram, царский, царские">
+<meta name="theme-color" content="#22baa0">
+
+<!-- Yandex.Metrika counter --> <script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter44828605 = new Ya.Metrika({ id:44828605, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/44828605" style="position:absolute; left:-9999px;" alt></div></noscript> <!-- /Yandex.Metrika counter -->
+
+<script async src="../js/sweetalert2.min.js"></script>
+
+
+    <link href="../css/app_2.css" rel="stylesheet">
+    <script src="../js/app.js"></script>
+
+</head>
+<body class="page-error">
+<main class="page-content">
+    <div class="page-inner">
+        <div id="main-wrapper">
+            <div class="row">
+                <div class="col-md-4 center">
+                    <h1 class="text-xxl text-primary text-center">404</h1>
+                    <div class="details">
+                        <h3></h3>
+                        <p>Страница, которую вы искали, не найдена, но вы можете вернуться назад и попробовать снова :)</p>
+                    </div>
+                    <a class="btn btn-primary btn-block" href="/"><span data-i18n="viewsErrorIndex.str22">На главную</span></a>
+                </div>
+            </div><!-- Row -->
+        </div><!-- Main Wrapper -->
+    </div><!-- Page Inner -->
+</main><!-- Page Content -->
+</body>
+</html>

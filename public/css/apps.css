@@ -1,0 +1,49 @@
+
+
+
+html, body {
+    height: 100%;
+    width: auto;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    padding: 10px;
+    
+    margin: auto;
+    overflow-y: auto; /* Ensure scrolling */
+    height: calc(100vh - 40px); /* Allow space for header and other elements */
+}
+
+h2, h3 {
+    color: #333;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px; /* Add space above the table */
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+.success {
+    color: green;
+}
+
+.error {
+    color: red;
+}
